@@ -116,7 +116,7 @@ const allgames: GamesElement[] = [
   </tr>
 </table>
 ```
-![game-tableview-normal.png](game-tableview-normal.png)
+![game-table-view-normal.png](game-table-view-normal.png)
 
 ### Angular material Table view with Pagination
 ==============================================
