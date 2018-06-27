@@ -1,11 +1,11 @@
-# Angulartabledemo
+# Angulartabledemo using Angular Material
 
 This project explains how to display records in tale with pagination, sorting and filtering using angular material.
 
 I assumed you already install angular cli.
 
 ### Angular material install
-=======================
+============================
 
 Step:1 npm install --save @angular/material @angular/cdk
 Step:2 npm install --save @angular/animations (for animations)
@@ -18,7 +18,7 @@ Step:6 Add <link href="https://fonts.googleapis.com/icon?family=Material+Icons" 
 ===============================================================================
 
 ### Normal View
-==========
+================
 
 1. Created new angular project angulartabledemo ng new angulartabledemo && cd angulartabledemo
 
@@ -234,7 +234,7 @@ Screenshot:
 
 
 ### Angular material Table view with Pagination and Sorting
-=======================================================
+===========================================================
 
 1: Import MatSortModule and BrowserAnimationsModule in app.module.ts
 
@@ -302,7 +302,7 @@ Screenshot:
 
 
 ### Angular material Table view with Pagination, Sorting and Filtering
-===================================================================
+======================================================================
 
 1: Import FormsModule, ReactiveFormsModule and MatInputModule in app.module.ts
 
