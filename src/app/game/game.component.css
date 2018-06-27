@@ -1,0 +1,33 @@
+.mat-elevation-z8 {
+    width: 55%;
+}
+
+.mat-table {
+    width: 100%;
+}
+
+.mat-header-row, .mat-header-cell {
+    background-color: thistle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mat-row:nth-child(even){
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mat-row:nth-child(odd){
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mat-form-field {
+    font-size: 20px;
+    width: 55%;
+  }
